@@ -1,6 +1,5 @@
 <h1 align="center">👋 Hey there!</h1>
 
-<!-- Marquee Text -->
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="10">
     🚀 Hey there! I'm Manpreet Singh 🚀
@@ -9,7 +8,7 @@
 
 <p align="center">
   A passionate <strong>Front-End Developer</strong> from Delhi, India.<br>
-  I craft sleek user experiences and clean interfaces with precision.
+  I build sleek user experiences and love experimenting with tech.
 </p>
 
 ---
@@ -25,18 +24,6 @@
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&style=for-the-badge" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&style=for-the-badge" alt="Git"/>
 </p>
-
----
-
-## 🧰 Projects Showcase
-
-Here's a snapshot of what I've built recently:
-
-- **Project 1** – A responsive web UI built with React and Tailwind CSS.  
-- **Project 2** – Interactive dashboard powered by Node.js & Express.  
-- **Project 3** – Sample project with complex form validation using TypeScript.
-
-You can find all my projects under the [**Repositories**](https://github.com/manpreetnub23?tab=repositories) tab!
 
 ---
 
@@ -59,7 +46,7 @@ You can find all my projects under the [**Repositories**](https://github.com/man
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge" alt="Email"/>
   </a>
   <a href="https://x.com/manpreetnub23">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=x&style=for-the-badge" alt="Twitter"/>
   </a>
 </p>
 
@@ -67,15 +54,10 @@ You can find all my projects under the [**Repositories**](https://github.com/man
 
 ## 👨‍💻 About Me
 
-- 📍 Based in Delhi, India — always exploring local and global dev communities.
-- 💡 I enjoy creating polished UI and solving frontend challenges.
-- 🚀 Currently deep into React & Next.js, building sleek interfaces.
-- 🎓 Continuously learning – from advanced JS patterns to design systems.
-
----
-
-Thank you for visiting!  
-Looking forward to collaborating on exciting projects. 💬
+- 📍 Based in Delhi, India — always exploring dev communities.
+- 💡 I love building clean UI and solving frontend challenges.
+- 🚀 Currently exploring React, TypeScript, and advanced backend systems.
+- 🎓 Continuously learning & experimenting with new technologies.
 
 ---
 
