@@ -1,9 +1,12 @@
-<!-- 🎉 Welcome Banner -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/manpreetnub23/manpreetnub23/main/banner.png" alt="Manpreet's Banner" width="800"/>
-</div>
+<h1 align="center">👋 Hey there!</h1>
 
-<h1 align="center">Hey there, I'm Manpreet Singh 👋</h1>
+<!-- Marquee Text -->
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="10">
+    🚀 Hey there! I'm Manpreet Singh 🚀
+  </marquee>
+</p>
+
 <p align="center">
   A passionate <strong>Front-End Developer</strong> from Delhi, India.<br>
   I craft sleek user experiences and clean interfaces with precision.
@@ -52,10 +55,10 @@ You can find all my projects under the [**Repositories**](https://github.com/man
   <a href="https://www.linkedin.com/in/manpreetnub23">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
   </a>
-  <a href="mailto:manpreet@example.com">
+  <a href="mailto:singhmanpreet0107@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge" alt="Email"/>
   </a>
-  <a href="https://twitter.com/your_handle">
+  <a href="https://x.com/manpreetnub23">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge" alt="Twitter"/>
   </a>
 </p>
