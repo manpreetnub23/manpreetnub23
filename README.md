@@ -2,7 +2,6 @@
 
 <h3 align="center">
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Hey+there!+I'm+Manpreet+Singh;Front-End+Developer+from+India" alt="Typing SVG" />
-
 </h3>
 
 <p align="center">
@@ -32,6 +31,29 @@
   <img src="https://github-readme-stats.vercel.app/api?username=manpreetnub23&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manpreetnub23&layout=compact&theme=vision-friendly-dark" alt="Most Used Languages"/>
 </p>
+
+---
+
+## 📂 My Projects
+
+### 📌 [authenticationWithEncryption](https://github.com/manpreetnub23/authenticationWithEncryption)
+> Backend Authentication System  
+Secure Node.js authentication with password encryption.  
+⚙️ Technologies: Node.js, Encryption, JWT
+
+---
+
+### 📌 [meowTube](https://github.com/manpreetnub23/meowTube)
+> YouTube Clone  
+React + Tailwind CSS-based YouTube clone with video playback, sidebar, and feed UI.  
+🌐 Live: [meow-tube-flax.vercel.app](https://meow-tube-flax.vercel.app)
+
+---
+
+### 📌 [pastes](https://github.com/manpreetnub23/pastes)
+> Note/To-Do Web App  
+A lightweight notes/to-do app built with React, Vite, and Tailwind CSS for fast performance and responsive UI.  
+🌐 Live: [pastes-one.vercel.app](https://pastes-one.vercel.app)
 
 ---
 
