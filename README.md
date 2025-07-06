@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there!</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=650&lines=Hey+there!+I'm+Manpreet+Singh;Front-End+Developer+from+India" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Hey+there!+I'm+Manpreet+Singh;Front-End+Developer+from+India" alt="Typing SVG" />
 
 </h3>
 
