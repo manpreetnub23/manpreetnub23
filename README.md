@@ -18,7 +18,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git"/>
 </p>
@@ -77,7 +76,7 @@ A lightweight notes/to-do app built with React, Vite, and Tailwind CSS for fast 
 
 - 📍 Based in Delhi, India — always exploring dev communities.
 - 💡 I love building clean UI and solving frontend challenges.
-- 🚀 Currently exploring React, TypeScript, and advanced backend systems.
+- 🚀 Currently exploring React and advanced backend systems.
 - 🎓 Continuously learning & experimenting with new technologies.
 
 ---
