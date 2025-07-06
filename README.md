@@ -1,10 +1,8 @@
 <h1 align="center">👋 Hey there!</h1>
 
-<p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="10">
-    🚀 Hey there! I'm Manpreet Singh 🚀
-  </marquee>
-</p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=435&lines=Hey+there!+I'm+Manpreet+Singh;Front-End+Developer+from+India" alt="Typing SVG" />
+</h3>
 
 <p align="center">
   A passionate <strong>Front-End Developer</strong> from Delhi, India.<br>
@@ -16,13 +14,13 @@
 ## 🔧 Skills & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&style=for-the-badge" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&style=for-the-badge" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&style=for-the-badge" alt="React"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&style=for-the-badge" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&style=for-the-badge" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&style=for-the-badge" alt="Git"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git"/>
 </p>
 
 ---
@@ -40,13 +38,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manpreetnub23">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   </a>
   <a href="mailto:singhmanpreet0107@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/>
   </a>
   <a href="https://x.com/manpreetnub23">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=x&style=for-the-badge" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter"/>
   </a>
 </p>
 
