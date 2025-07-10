@@ -33,6 +33,14 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/manpreetnub23/manpreetnub23/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
+---
+
 ## 📂 My Projects
 
 ### 📌 [authenticationWithEncryption](https://github.com/manpreetnub23/authenticationWithEncryption)
