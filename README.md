@@ -33,11 +33,8 @@
 
 ---
 
-## 🐍 Contribution Snake
 
-<p align="center">
 ![snake gif](https://github.com/manpreetnub23/manpreetnub23/blob/output/github-snake-dark.svg)
-</p>
 
 ---
 
