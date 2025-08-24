@@ -27,10 +27,8 @@
 
 ## 🚀 GitHub Stats
 
-<p align="center">
-  [![manpreetnub23's GitHub stats](https://github-readme-stats.vercel.app/api?username=manpreetnub23)](https://github.com/manpreetnub23/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manpreetnub23)](https://github.com/manpreetnub23/github-readme-stats)
-</p>
+  ![manpreeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=manpreetnub23&show_icons=true)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manpreetnub23)](https://github.com/manpreetnub23/github-readme-stats&theme=tokyonight)
 
 ---
 
