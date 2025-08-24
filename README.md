@@ -28,8 +28,8 @@
 ## 🚀 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manpreetnub23&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manpreetnub23&layout=compact&theme=vision-friendly-dark" alt="Most Used Languages"/>
+  [![manpreetnub23's GitHub stats](https://github-readme-stats.vercel.app/api?username=manpreetnub23)](https://github.com/manpreetnub23/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manpreetnub23)](https://github.com/manpreetnub23/github-readme-stats)
 </p>
 
 ---
