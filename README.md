@@ -69,10 +69,10 @@ A tracker project leveraging Node.js and EJS templating to handle dynamic update
 🌐 **Live**: [real-time-collab-peach.vercel.app](https://real-time-collab-peach.vercel.app)  
 ⚙️ **Technologies**: Node.js, EJS, JavaScript, CSS
 
-### 🧠 [info-ret](https://github.com/manpreetnub23/info-ret)
-> 📚 **Information Retrieval System**  
+### 🧠 [profiles](https://github.com/manpreetnub23/info-ret)
+> 📚 **Profiles**  
 Next.js web app to create, view, and manage user profiles in a card-based interface with dynamic search and animations.  
-🌐 **Live**: [https://info-ret-ruddy.vercel.app](https://info-ret-ruddy.vercel.app)  
+🌐 **Live**: [https://profiles-orcin.vercel.app](https://profiles-orcin.vercel.app)  
 ⚙️ **Technologies**: Next js , Dice Beers Api
 
 ### 🌐 [miranda](https://github.com/manpreetnub23/miranda)
