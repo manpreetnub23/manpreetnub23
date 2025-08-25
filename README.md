@@ -45,17 +45,6 @@
 
 ## 📂 My Projects
 
-### 🎯 [authenticationWithEncryption](https://github.com/manpreetnub23/authenticationWithEncryption)
-> 🔐 **Backend Authentication System**  
-Secure Node.js authentication with password encryption.  
-⚙️ **Technologies**: Node.js, Handlebars, JWT, bcrypt
-
-### 🐱 [meowTube](https://github.com/manpreetnub23/meowTube)
-> ▶️ **YouTube Clone**  
-React + Tailwind CSS-based YouTube clone with video playback, sidebar, and feed UI.  
-🌐 **Live**: [meow-tube-flax.vercel.app](https://meow-tube-flax.vercel.app)  
-⚙️ **Technologies**: React, Tailwind CSS, JavaScript
-
 ### 📝 [pastes](https://github.com/manpreetnub23/pastes)
 > 🗒️ **Note/To-Do Web App**  
 A lightweight notes/to-do app built with React, Vite, and Tailwind CSS for fast performance and responsive UI.  
@@ -80,11 +69,28 @@ A tracker project leveraging Node.js and EJS templating to handle dynamic update
 🌐 **Live**: [real-time-collab-peach.vercel.app](https://real-time-collab-peach.vercel.app)  
 ⚙️ **Technologies**: Node.js, EJS, JavaScript, CSS
 
+### 🧠 [info-ret](https://github.com/manpreetnub23/info-ret)
+> 📚 **Information Retrieval System**  
+Next.js web app to create, view, and manage user profiles in a card-based interface with dynamic search and animations.  
+🌐 **Live**: [https://info-ret-ruddy.vercel.app](https://info-ret-ruddy.vercel.app)  
+⚙️ **Technologies**: Next js , Dice Beers Api
+
 ### 🌐 [miranda](https://github.com/manpreetnub23/miranda)
 > 🌟 **Static Web Project**  
 A simple, stylish static website showcasing front-end skills.  
 🌐 **Live**: [miranda-55we9w7w4-manpreetnub23.vercel.app](https://miranda-55we9w7w4-manpreetnub23.vercel.app)  
 ⚙️ **Technologies**: HTML, CSS, JavaScript, GSAP, Locomotive Scroll
+
+### 🎯 [authenticationWithEncryption](https://github.com/manpreetnub23/authenticationWithEncryption)
+> 🔐 **Backend Authentication System**  
+Secure Node.js authentication with password encryption.  
+⚙️ **Technologies**: Node.js, Handlebars, JWT, bcrypt
+
+### 🐱 [meowTube](https://github.com/manpreetnub23/meowTube)
+> ▶️ **YouTube Clone**  
+React + Tailwind CSS-based YouTube clone with video playback, sidebar, and feed UI.  
+🌐 **Live**: [meow-tube-flax.vercel.app](https://meow-tube-flax.vercel.app)  
+⚙️ **Technologies**: React, Tailwind CSS, JavaScript
 
 ---
 
